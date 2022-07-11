@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    background-image: url(Plano\ de\ fundo\ h1.jpg);
+}
+h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center; 
+    margin-top: 5%;
+ }
+footer p{
+    color: white;
+    margin-top: 100%;
+}
